@@ -14,10 +14,11 @@
     "supabase-js": "^2.x"
   },
   "devDependencies": {
-    "jest": "^29.x",
-    "@types/jest": "^29.x",
-    "ts-jest": "^29.x",
-    "supertest": "^6.x",
-    "@types/supertest": "^2.x"
+    "jest": "^30.0.5",
+    "@types/jest": "^30.0.0",
+    "ts-jest": "^29.4.1",
+    "supertest": "^7.1.4",
+    "@types/supertest": "^6.0.3",
+    "node-mocks-http": "^1.17.2"
   }
 }
