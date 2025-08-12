@@ -4,12 +4,20 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "test": "jest"
   },
   "dependencies": {
     "next": "13.x",
     "react": "18.x",
     "react-dom": "18.x",
     "supabase-js": "^2.x"
+  },
+  "devDependencies": {
+    "jest": "^29.x",
+    "@types/jest": "^29.x",
+    "ts-jest": "^29.x",
+    "supertest": "^6.x",
+    "@types/supertest": "^2.x"
   }
 }
