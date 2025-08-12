@@ -1,20 +1,24 @@
 # Terms of Service
 
-By using this platform, you agree to the following terms:
+## 1. Penggunaan Layanan
+Dengan menggunakan layanan ini, Anda setuju mematuhi semua aturan dan ketentuan yang berlaku.
 
-1. **Usage**  
-   You agree to use this platform only for lawful purposes and in a way that does not infringe the rights of others.
+## 2. Hak dan Kewajiban Pengguna
+- Pengguna bertanggung jawab atas konten yang diunggah dan aktivitas di akun mereka.
+- Pengguna tidak diperkenankan melakukan tindakan ilegal, menyebarkan virus, spam, atau pelanggaran hak cipta.
 
-2. **User Content**  
-   You are responsible for any content you upload or share on the platform.
+## 3. Kebijakan Privasi
+Pengumpulan dan penggunaan data diatur dalam Kebijakan Privasi terpisah.
 
-3. **Data Privacy**  
-   Your data will be handled according to our Privacy Policy.
+## 4. Pembatasan Tanggung Jawab
+Layanan disediakan "apa adanya" tanpa jaminan. Kami tidak bertanggung jawab atas kerugian yang timbul akibat penggunaan layanan.
 
-4. **Limitation of Liability**  
-   The platform is provided "as is" without warranty of any kind. We are not liable for any damages resulting from use.
+## 5. Perubahan Ketentuan
+Kami dapat mengubah ketentuan ini kapan saja dengan pemberitahuan.
 
-5. **Changes to Terms**  
-   We reserve the right to update these terms at any time. Continued use means you accept the changes.
+## 6. Pengakhiran Layanan
+Kami berhak menghentikan akses pengguna yang melanggar ketentuan ini.
 
-For detailed policy, please contact support@bayrestore.id
+---
+
+Dokumen ini adalah contoh dasar, silakan dikembangkan sesuai kebutuhan.
