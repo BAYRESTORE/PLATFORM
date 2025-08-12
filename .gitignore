@@ -18,3 +18,7 @@ yarn-error.log*
 # OS files
 .DS_Store
 Thumbs.db
+
+.env.local
+node_modules/
+.next/
